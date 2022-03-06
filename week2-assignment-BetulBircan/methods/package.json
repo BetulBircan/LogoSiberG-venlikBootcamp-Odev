@@ -1,0 +1,13 @@
+{
+  "name": "methods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback-function.js",
+  "scripts": {
+    "start": "node callback-function",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
