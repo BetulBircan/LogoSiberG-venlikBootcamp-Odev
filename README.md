@@ -5,8 +5,6 @@ Burada Logo Siber Güvenlik ve Ağ Teknolojileri FullStack Bootcampinde yaptığ
 
 2.Hafta: Kendi sunucumuzu ve RestFulapimizi oluşturma
 
-Not: 2.haftanın ödevinde dosya boyutu büyük  olduğu için zip dosyasına sıkıştırılmıştır
-
 3.Hafta: ReactNative projesi
 
 4.Hafta: SBAdmin panelini vue.js de componentlere ayırarak oluşturmak.
